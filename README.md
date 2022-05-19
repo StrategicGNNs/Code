@@ -14,7 +14,7 @@ Then install PyTorch Geometric: https://pytorch-geometric.readthedocs.io/en/late
 1. **synthetic_dataset_main**
 Returns the non-strategic, naive and robust accuracies for a single experiment, performed on our synthetic dataset.
 
-The available input arguments are:
+    The available input arguments are:
 * `--alpha`: The influence of the graph.
 
 * `--cost_lim`: The maximal moving distance.
@@ -29,7 +29,7 @@ The available input arguments are:
 Returns the non-strategic, naive and robust accuracies for a single experiment, performed on a real dataset (Cora, CiteSeer or PubMed).
 
 
-The available input arguments are:
+    The available input arguments are:
 * `--dataset`: Name of the real dataset, all caps.
 
 * `--num_layers`: The number of layers in the SGC model.
