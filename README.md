@@ -1,4 +1,4 @@
-# Single-Node Attack For Fooling Graph Neural Networks
+# Strategic Classification with Graph Neural Networks
 
 This repository is the official implementation of Strategic Classification with Graph Neural Networks.
 
